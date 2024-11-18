@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h1 align="center">Hi there, I'm <a href="https://t.me/razemint" target="_blank">Daniil</a> 
+<img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
+<h3 align="center">C++, C#, Python, Kotlin Developer</h3>
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
