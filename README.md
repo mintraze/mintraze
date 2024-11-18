@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
 <h3 align="center">C++, C#, Python, Kotlin Developer</h3>
 <img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintraze&layout=compact)](https://github.com/mintraze/github-readme-stats)
+[![Mintraze's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintraze)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
