@@ -8,7 +8,7 @@
   <li>C#</li>
   <li>Kotlin</li>
 </ul>
-<img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" object-position: right;>
+<p style="text-align: center;"><img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" ></p>
 
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
