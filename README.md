@@ -10,6 +10,10 @@
 </ul>
 <img align="right" src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" >
 </h4>
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 20px;">Это пример текста, который будет размещен слева от картинки.</div>
+    <img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" alt="Пример картинки" style="max-width: 100%; height: auto;">
+</div>
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
