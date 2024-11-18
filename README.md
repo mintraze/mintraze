@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/razemint" target="_blank">Daniil</a> 
 <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
 <h3 align="center">C++, C#, Python, Kotlin Developer</h3>
-<a href="https://iimg.su/i/Ds769"><img src="https://s.iimg.su/s/18/th_lfXJeM4R5NfRV656wzf327ouQSehUvsFrVKxnJDN.jpg"></a>
+<a href="https://iimg.su/i/Ds769"><img style="float: right;" alt="" src="https://s.iimg.su/s/18/th_lfXJeM4R5NfRV656wzf327ouQSehUvsFrVKxnJDN.jpg"></a>
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
