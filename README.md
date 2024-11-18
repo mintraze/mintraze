@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/razemint" target="_blank">Raze</a> 
 <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
 <h3 align="center">AI Developer</h3>
-<!--<h4 align="center">My languages:</h4>-->
+<h4 align="left">My languages:</h4>
 <ul>
-  <li>My languages:</li>
   <li>Python</li>
   <li>C++</li>
   <li>C#</li>
