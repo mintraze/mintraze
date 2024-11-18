@@ -2,6 +2,10 @@
 <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
 <h3 align="center">AI Developer</h3>
 <h4 align="center">My languages:</h4>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+</ul>
 <img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg">
 
 <!--
