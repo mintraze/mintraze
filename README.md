@@ -5,8 +5,10 @@
 <ul>
   <li>Python</li>
   <li>C++</li>
+  <li>C#</li>
+  <li>Kotlin</li>
 </ul>
-<img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg">
+<img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" object-position: right;>
 
 <!--
 **mintraze/mintraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
