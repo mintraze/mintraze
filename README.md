@@ -10,6 +10,7 @@
                 <li>C++</li>
                 <li>C#</li>
                 <li>Kotlin</li>
+                <li>Go</li>
             </ul>
         </td>
         <td style="vertical-align: top; border: none;">
