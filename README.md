@@ -14,7 +14,7 @@
             </ul>
         </td>
         <td style="vertical-align: top; border: none;">
-            <img src="https://s.iimg.su/s/18/th_9dUIeTUEHIYb5VjToVjZ9FUFBFwYoJeubakkkIlh.jpg" alt="Изображение" style="width: 250px; height: auto;">
+            <img src="https://yapx.ru/album/Z81P9" alt="Изображение" style="width: 250px; height: auto;">
         </td>
     </tr>
 </table>
