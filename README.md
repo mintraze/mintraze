@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/razemint" target="_blank">Raze</a> 
 <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" height="32"/></h1>
 <h3 align="center">Android&ML Developer</h3>
+<h4 align="center">SPbETU "LETI" (2/4)</h4>
 <table align="right" style="border: none; border-collapse: collapse;">
     <tr>
         <td style="vertical-align: top; border: none;">
